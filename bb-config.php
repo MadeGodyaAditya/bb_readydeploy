@@ -17,7 +17,7 @@ return array (
     'type' => 'mysql',
     'host' => 'db',
     'name' => 'boxbill',
-    'user' => 'boxbill_admin',
+    'user' => 'root',
     'password' => 'admin',
   ),
   'twig' => 
